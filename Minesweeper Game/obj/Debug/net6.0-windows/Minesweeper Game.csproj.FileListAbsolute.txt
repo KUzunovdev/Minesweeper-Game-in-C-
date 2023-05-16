@@ -1,0 +1,19 @@
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\bin\Debug\net6.0-windows\Minesweeper Game.exe
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\bin\Debug\net6.0-windows\Minesweeper Game.deps.json
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\bin\Debug\net6.0-windows\Minesweeper Game.runtimeconfig.json
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\bin\Debug\net6.0-windows\Minesweeper Game.dll
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\bin\Debug\net6.0-windows\Minesweeper Game.pdb
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.csproj.AssemblyReference.cache
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper_Game.Properties.Resources.resources
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.csproj.GenerateResource.cache
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.AssemblyInfoInputs.cache
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.AssemblyInfo.cs
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.csproj.CoreCompileInputs.cache
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.dll
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\refint\Minesweeper Game.dll
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.pdb
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper Game.genruntimeconfig.cache
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\ref\Minesweeper Game.dll
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper_Game.StartScreenForm.resources
+D:\class\C# + GUI\Minesweeper Game\Minesweeper Game\obj\Debug\net6.0-windows\Minesweeper_Game.MainForm.resources
